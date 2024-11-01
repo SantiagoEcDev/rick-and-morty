@@ -1,7 +1,7 @@
 # 🌌 Rick and Morty API Project
 
 Bienvenido a este proyecto de aplicación web que permite explorar el universo de **Rick and Morty**. Utiliza la [API de Rick and Morty](https://rickandmortyapi.com/) para ofrecer una experiencia dinámica y entretenida a los usuarios.
-# Accede a https://rick-and-mortyapi.netlify.app para probar el proyecto
+
 ## 🚀 Características
 
 - **Exploración de personajes**: Navega y conoce a los personajes con detalles como nombre, imagen, estado y ubicación.
